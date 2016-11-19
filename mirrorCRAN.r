@@ -13,3 +13,7 @@
 #install.packages("RSQLite")
 #library(RSQLite)
 #library(ggplot2)
+
+#1 sudo R CMD javareconf
+
+#2 install.packages("rJava",type='source')
